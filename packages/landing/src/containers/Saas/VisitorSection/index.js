@@ -42,13 +42,13 @@ const VisitorSection = ({
           <FeatureBlock
             title={
               <Heading
-                content="Make your website growth with next level visitors"
+                content="Find world class investment opportunities in a matter of seconds"
                 {...title}
               />
             }
             description={
               <Text
-                content="For Enhanced performance we use LiteSpeed Web Server, HTTP/2, PHP7. We make your website faster, which will help you to increase search ranking!."
+                content="At Antelope, it only takes one click to find a promising idea and start a conversation, inversely as a startup it also takes one click to find the right investors to back your big solution"
                 {...description}
               />
             }
