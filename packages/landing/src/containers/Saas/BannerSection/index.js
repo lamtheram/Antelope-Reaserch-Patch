@@ -44,21 +44,21 @@ const BannerSection = ({
         <Box className="row" {...row}>
           <Box className="col" {...col}>
             <DiscountLabel>
-              <Text content="50% Discount" {...discountAmount} />
+              <Text content="25% Discount" {...discountAmount} />
               <Text content="for first adopters " {...discountText} />
             </DiscountLabel>
             <FeatureBlock
               title={
                 <Heading
-                  content="Ultimate Platform
-                    to monitor your best
-                    workflow."
+                  content="Disrupting How We
+                  Connect Through 
+                  Automation"
                   {...title}
                 />
               }
               description={
                 <Text
-                  content="We help to create SaaS product that are innovative, differentiated with a superb User Experience, fully accessible through mobile devices. SaaS products are changing the world ."
+                  content="Antelope is an AI powered platform that utilizes deep learning to connect investors & established companies with exciting new startups & research and utilize the expertise of Key Opinion Leaders (KOI’s) & researchers to vet and protect themselves from the risk that currently exists."
                   {...description}
                 />
               }
