@@ -24,9 +24,9 @@ const Saas = () => {
     <ThemeProvider theme={saasTheme}>
       <Fragment>
         <Head>
-          <title>Saas | A react next landing page</title>
+          <title>Antelope | Autonomising how we make connections</title>
           <meta name="Description" content="React next landing page" />
-          <meta name="theme-color" content="#ec5555" />
+          <meta name="theme-color" content="#D9FC00" />
           {/* Load google fonts */}
           <link
             href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
@@ -44,8 +44,6 @@ const Saas = () => {
           <BannerSection />
           <FeatureSection />
           <VisitorSection />
-          <ServiceSection />
-          <PricingSection />
           <TestimonialSection />
           <PartnerSection />
           <TimelineSection />
