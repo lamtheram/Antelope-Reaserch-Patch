@@ -5,27 +5,27 @@ export const Faq = [
   {
     id: 1,
     expend: true,
-    title: 'How to contact with Customer Service?',
+    title: 'What if startups are conscious about their idea being taken?',
     description:
-      'Our Customer Experience Team is available 7 days a week and we offer 2 ways to get in contact.Email and Chat . We try to reply quickly, so you need not to wait too long for a response!. ',
+      'NDAs are a crucial part of Antelope’s operations, as we want to reduce friction and barriers for startups and researchers to join while also protecting the values they prioritise and hold dear with their ideas. ',
   },
   {
     id: 2,
-    title: 'App installation failed, how to update system information?',
+    title: 'Will Antelope integrate with 3rd party apps?',
     description:
       'Please read the documentation carefully . We also have some online  video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum . ',
   },
   {
     id: 3,
-    title: 'Website reponse taking time, how to improve?',
+    title: 'What happens after my free trial ends?',
     description:
       'At first, Please check your internet connection . We also have some online  video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum .',
   },
   {
     id: 4,
-    title: 'New update fixed all bug and issues?',
+    title: 'Can I upgrade or downgrade / switch plans at any time?',
     description:
-      'We are giving the update of this theme continuously . You will receive an email Notification when we push an update. Always try to be updated with us .',
+      'Yes, Antelope is conscious of the fact that circumstances change and so your downgrading occurs at the end of the billing cycle while upgrading your plan starts at the time of change.',
   },
   {
     id: 4,
@@ -41,21 +41,21 @@ export const Features = [
     icon: 'flaticon-creative',
     title: 'Powerful Features',
     description:
-      'Automate time consuming tasks like organising expenses ,tracking your time and following up with clients ',
+      'Automate the process of making connections, saving you time to work on solidifying your network ',
   },
   {
     id: 2,
     icon: 'flaticon-briefing',
-    title: 'Easy Invoicing',
+    title: 'Continuous Support',
     description:
-      'Want to surprice your clients with professional looking invoices ? Then you are some clicks behind .',
+      'All the perks and opportunities provided by an accelerator, except Antelope doesnt stop at demo day',
   },
   {
     id: 3,
     icon: 'flaticon-flask',
     title: 'Easy To Use',
     description:
-      'Very Simple and intuitive. So you have to spend less time in paperwork and impress your customer with looks',
+      'Very Simple and intuitive. So you have to spend less time understanding the platform and more time on introductions',
   },
 ];
 
