@@ -32,19 +32,14 @@ const TrialSection = ({
           <Box {...textArea}>
             <Heading
               {...title}
-              content="Start your 30 days free trials today!"
+              content="Partner with us and get ranked higher on our waitlist"
             />
             <Text
               {...description}
-              content="We have provided 30 Days Money Back Guarantee in case of dissatisfaction with our product. We care for our customers and their values."
+              content="Avail of our services faster by becoming a strategic partner early on. If you run or are part of a company that believe would benefit from Antelope, contact our team below"
             />
             <ButtonGroup className="button_group">
-              <Button title="WORK HISTORY" {...btnStyle} />
-              <Button
-                title="Login with Email"
-                variant="textButton"
-                {...outlineBtnStyle}
-              />
+              <Button title="Contact our Team" {...btnStyle} />
             </ButtonGroup>
           </Box>
         </Box>
