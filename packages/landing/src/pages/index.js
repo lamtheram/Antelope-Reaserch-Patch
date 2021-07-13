@@ -11,6 +11,8 @@ import FeatureSection from 'containers/Saas/FeatureSection';
 import VisitorSection from 'containers/Saas/VisitorSection';
 import ServiceSection from 'containers/Saas/ServiceSection';
 import Footer from 'containers/Saas/Footer';
+import TeamSection from 'containers/Agency/TeamSection';
+import CallToAction from 'containers/AppMinimal/CallToAction';
 import PricingSection from 'containers/Saas/PricingSection';
 import TrialSection from 'containers/Saas/TrialSection';
 import TimelineSection from 'containers/Saas/TimelineSection';
@@ -44,8 +46,7 @@ const Saas = () => {
           <BannerSection />
           <FeatureSection />
           <VisitorSection />
-          <TestimonialSection />
-          <PartnerSection />
+          <TeamSection />
           <TimelineSection />
           <FaqSection />
           <TrialSection />
