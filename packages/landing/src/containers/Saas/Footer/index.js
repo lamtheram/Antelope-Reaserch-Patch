@@ -32,8 +32,8 @@ const Footer = ({
               title="Hosting"
               logoStyle={logoStyle}
             />
-            <Text content="hello@redq.io" {...textStyle} />
-            <Text content="+479-443-9334" {...textStyle} />
+            <Text content="info@antelope.icu" {...textStyle} />
+            <Text content="+353 87 102 2795" {...textStyle} />
           </Box>
           {/* End of footer logo column */}
           <Box {...colTwo}>
