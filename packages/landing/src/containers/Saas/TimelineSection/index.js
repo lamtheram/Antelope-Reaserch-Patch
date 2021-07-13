@@ -43,10 +43,10 @@ const TimelineSection = ({
     <Box {...sectionWrapper}>
       <Container>
         <Box {...sectionHeader}>
-          <Text {...sectionSubTitle} content="WORKING STEP" />
+          <Text {...sectionSubTitle} content="HOW ANTELOPE WORKS" />
           <Heading
             {...sectionTitle}
-            content="How Pestro work behind the scenes"
+            content="How Antelope works behind the scenes"
           />
         </Box>
         <Box {...row}>
@@ -94,13 +94,6 @@ const TimelineSection = ({
               ))}
             </TimelineWrapper>
           </Box>
-        </Box>
-        <Box {...buttonWrapper}>
-          <Link href="#">
-            <a>
-              <Button {...button} title="HIRE FOR PROJECT" />
-            </a>
-          </Link>
         </Box>
       </Container>
     </Box>
