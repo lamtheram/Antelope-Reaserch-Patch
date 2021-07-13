@@ -2,8 +2,9 @@ import BlogImage1 from '../../assets/image/agency/blog/blog-img1.png';
 import BlogImage2 from '../../assets/image/agency/blog/blog-img2.png';
 import BlogImage3 from '../../assets/image/agency/blog/blog-img3.png';
 import Member1 from '../../assets/image/agency/team/member-1.jpg';
-import Member2 from '../../assets/image/agency/team/member-2.jpg';
-import Member3 from '../../assets/image/agency/team/member-3.jpg';
+import Member2 from '../../assets/image/agency/team/member-2.png';
+import Member3 from '../../assets/image/agency/team/member-3.png';
+import Member4 from '../../assets/image/agency/team/member-4.jpg';
 import Denny from '../../assets/image/agency/client/denny.png';
 import Menny from '../../assets/image/agency/client/menny.png';
 
@@ -167,87 +168,31 @@ const data = {
   teamMember: [
     {
       id: 1,
-      name: 'Jessica Fanddy',
+      name: 'Liam McSherry',
       thumbnail_url: Member1,
       designation: 'Co Founder',
-      social_links: [
-        {
-          id: 1,
-          icon: 'flaticon-facebook-logo',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-twitter-logo-silhouette',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-instagram',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-dribble-logo',
-          url: '#',
-        },
-      ],
-    },
-    {
-      id: 2,
-      name: 'Devid Justingul',
-      thumbnail_url: Member2,
-      designation: 'Senior Ui/UX Designer',
-      social_links: [
-        {
-          id: 1,
-          icon: 'flaticon-facebook-logo',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-twitter-logo-silhouette',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-instagram',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-dribble-logo',
-          url: '#',
-        },
-      ],
+      social_links: [],
     },
     {
       id: 3,
-      name: 'Handdy Albuzz',
+      name: 'Marc da Costa',
+      thumbnail_url: Member4,
+      designation: 'Co Founder',
+      social_links: [],
+    },
+    {
+      id: 2,
+      name: 'Fintan Lalor',
+      thumbnail_url: Member2,
+      designation: 'Co Founder',
+      social_links: [],
+    },
+    {
+      id: 2,
+      name: 'Justin Cunningham',
       thumbnail_url: Member3,
-      designation: 'Article Writer',
-      social_links: [
-        {
-          id: 1,
-          icon: 'flaticon-facebook-logo',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-twitter-logo-silhouette',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-instagram',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-dribble-logo',
-          url: '#',
-        },
-      ],
+      designation: 'Co Founder',
+      social_links: [],
     },
   ],
   testimonial: [
