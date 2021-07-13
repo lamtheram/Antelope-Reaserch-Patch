@@ -52,13 +52,6 @@ const VisitorSection = ({
                 {...description}
               />
             }
-            button={
-              <Link href="#">
-                <a>
-                  <Button title="HOW IT WORKS" {...btnStyle} />
-                </a>
-              </Link>
-            }
           />
         </Box>
       </Container>
