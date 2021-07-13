@@ -21,16 +21,11 @@ const Footer = () => {
     <FooterArea>
       <Container className="Container">
         <Left>
-          <Logo
-            className="logo"
-            href="/appminimal"
-            logoSrc={logo}
-            title="App Classic"
-          />
+          <Logo className="logo" logoSrc={logo} title="App Classic" />
           <CopyText>
             Copyright © {year}
             <Link href="/">
-              <a>RedQ, Inc.</a>
+              <a>Antelope</a>
             </Link>
           </CopyText>
         </Left>
