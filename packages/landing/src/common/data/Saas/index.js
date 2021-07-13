@@ -13,25 +13,13 @@ export const Faq = [
     id: 2,
     title: 'Will Antelope integrate with 3rd party apps?',
     description:
-      'Please read the documentation carefully . We also have some online  video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum . ',
+      'Our future interests are that of integrating with the entire google suite, Slack and other communication platforms so that users can share and continue connections on our platform externally. ',
   },
   {
     id: 3,
-    title: 'What happens after my free trial ends?',
+    title: 'What will the pricing model look like for users',
     description:
-      'At first, Please check your internet connection . We also have some online  video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum .',
-  },
-  {
-    id: 4,
-    title: 'Can I upgrade or downgrade / switch plans at any time?',
-    description:
-      'Yes, Antelope is conscious of the fact that circumstances change and so your downgrading occurs at the end of the billing cycle while upgrading your plan starts at the time of change.',
-  },
-  {
-    id: 4,
-    title: 'New update fixed all bug and issues?',
-    description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      'Antelope is subscription based, where our users can choose to be part of annual or monthly subscription plans to utilise or platform & service. ',
   },
 ];
 
@@ -79,10 +67,6 @@ export const Footer_Data = [
         url: '#',
         text: 'Copyright',
       },
-      {
-        url: '#',
-        text: 'Popular Campaign',
-      },
     ],
   },
   {
@@ -90,7 +74,7 @@ export const Footer_Data = [
     menuItems: [
       {
         url: '#',
-        text: 'Return Policy',
+        text: 'Subscription Policy',
       },
       {
         url: '#',
@@ -99,14 +83,6 @@ export const Footer_Data = [
       {
         url: '#',
         text: 'Terms & Conditions',
-      },
-      {
-        url: '#',
-        text: 'Site Map',
-      },
-      {
-        url: '#',
-        text: 'Store Hours',
       },
     ],
   },
@@ -123,15 +99,7 @@ export const Footer_Data = [
       },
       {
         url: '#',
-        text: 'Images & B-roll',
-      },
-      {
-        url: '#',
-        text: 'Permissions',
-      },
-      {
-        url: '#',
-        text: 'Speaker requests',
+        text: 'Sign Up',
       },
     ],
   },
@@ -205,19 +173,19 @@ export const Service = [
 
 export const Timeline = [
   {
-    title: 'Wireframing for project',
+    title: 'Groundbreaking Technology or Research',
     description:
-      'We respect our customer opinions and deals with them with perfect wireframing.',
+      'As a researcher or startup, you create a page showcasing your innovative idea or breakthrough technology.',
   },
   {
-    title: 'UI/UX for project',
+    title: 'Institutions, SMEs and Universities join our platform',
     description:
-      'We provide the best UI/UX Design by following the latest trends of the market .',
+      'Institutions and Large companies sign up and add what their searching for so that Antelope can find your amazing projects & startups. ',
   },
   {
-    title: 'Negotiation about project',
+    title: 'Matchmaking and Connecting',
     description:
-      'After the negotiation is done , We start to build the project with latest technology .',
+      'Through Antelopes platform, we connect both parties interests in a matter of a seconds using a simple click of a button',
   },
 ];
 
@@ -254,18 +222,8 @@ export const MENU_ITEMS = [
     offset: '70',
   },
   {
-    label: 'Feature',
-    path: '#feature_section',
-    offset: '70',
-  },
-  {
-    label: 'Pricing',
-    path: '#pricing_section',
-    offset: '70',
-  },
-  {
-    label: 'Testimonial',
-    path: '#testimonial_section',
+    label: 'Team',
+    path: '#teamSection',
     offset: '70',
   },
   {
