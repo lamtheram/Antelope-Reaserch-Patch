@@ -356,48 +356,34 @@ export const pricing = {
 // Team Portfolio data section
 /* ------------------------------------ */
 import member1 from 'common/assets/image/appModern/1.png';
-import member2 from 'common/assets/image/appModern/2.png';
+import member6 from 'common/assets/image/appModern/2.png';
 import member3 from 'common/assets/image/appModern/3.png';
 import member4 from 'common/assets/image/appModern/4.png';
 import member5 from 'common/assets/image/appModern/5.png';
-import member6 from 'common/assets/image/appModern/6.png';
+import member2 from 'common/assets/image/appModern/6.png';
 import member7 from 'common/assets/image/appModern/7.png';
 
 export const teamportfolio = {
-  title: 'Meet our awesome team members, work behind the sense',
+  title: 'Meet the Pioneers',
   description:
-    'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features that Lorem ipsum dolor sit amet consectetur.',
+    'Antelopes bold vision coulnt be made made possible without an incredible founding team',
 
   teammember: [
     {
       id: 1,
       img: member1,
-      text: 'Berlin Corleone',
+      text: 'Liam McSherry',
     },
-    {
-      id: 2,
-      img: member2,
-      text: 'Jona White',
-    },
+
     {
       id: 3,
       img: member3,
       text: 'Michael Price',
     },
     {
-      id: 4,
-      img: member4,
-      text: 'Gullyboy Rana',
-    },
-    {
-      id: 5,
-      img: member5,
-      text: 'Miss Clair',
-    },
-    {
       id: 6,
       img: member6,
-      text: 'Bucky Ali',
+      text: 'Justin Cunningham',
     },
     {
       id: 7,
