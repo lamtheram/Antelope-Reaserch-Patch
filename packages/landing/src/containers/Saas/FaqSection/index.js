@@ -68,13 +68,6 @@ const FaqSection = ({
               ))}
             </Fragment>
           </Accordion>
-          <Box {...buttonWrapper}>
-            <Link href="#">
-              <a>
-                <Button {...button} />
-              </a>
-            </Link>
-          </Box>
         </Box>
       </Container>
     </FaqSectionWrapper>
